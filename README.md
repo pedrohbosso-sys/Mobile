@@ -118,3 +118,9 @@ graph BT
 
 
 ```
+
+#### Matriz Comparativa entre StateLess e StateFul
+
+|Característica|Stateless Widget|Stateful Widget|
+|-|-|-|
+|Mutabilidade|Imutável(Não Muda após Carregar)|Mutavel(permite mudanças  do estado apos)
