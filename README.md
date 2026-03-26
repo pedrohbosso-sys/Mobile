@@ -112,7 +112,7 @@ graph BT
     FAB["FloatActionButton"]
     SB["SnackBar"]
 
-    MA --> STL, STF
+    MA --> STL & STF
     STF & STL --> SC
     SC --> ABar & BD & BNBar & DW & FAB & SB
 
